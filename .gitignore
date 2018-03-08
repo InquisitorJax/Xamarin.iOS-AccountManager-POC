@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Xamarin.SecureAccountStore/.vs
+
+/Xamarin.SecureAccountStore/bin
+/Xamarin.SecureAccountStore/obj
+/Xamarin.SecureAccountStore/packages

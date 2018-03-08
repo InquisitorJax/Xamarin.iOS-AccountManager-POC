@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.SecureAccountStore", "Xamarin.SecureAccountStore.csproj", "{AA25722F-FC5D-481C-BBAE-B0CF648DE8AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA25722F-FC5D-481C-BBAE-B0CF648DE8AA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AA25722F-FC5D-481C-BBAE-B0CF648DE8AA}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AA25722F-FC5D-481C-BBAE-B0CF648DE8AA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AA25722F-FC5D-481C-BBAE-B0CF648DE8AA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AA25722F-FC5D-481C-BBAE-B0CF648DE8AA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AA25722F-FC5D-481C-BBAE-B0CF648DE8AA}.Release|iPhone.Build.0 = Release|iPhone
+		{AA25722F-FC5D-481C-BBAE-B0CF648DE8AA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AA25722F-FC5D-481C-BBAE-B0CF648DE8AA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D77B6B-127B-4FCA-9D2E-47FF389A3FED}
+	EndGlobalSection
+EndGlobal
